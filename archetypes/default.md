@@ -2,6 +2,7 @@
 title =  "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 tags = []
-featured_image = ""
+categories = []
 description = ""
+draft: false
 +++
